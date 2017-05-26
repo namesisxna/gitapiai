@@ -49,11 +49,7 @@
 		</dependency>
 
 
-		<dependency>
-			<groupId>com.cts.gto.cloud.connector.dataformats</groupId>
-			<artifactId>dataformats-jackson</artifactId>
-			<version>1.0.0</version>
-		</dependency>
+		
 
 
 
